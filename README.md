@@ -2,7 +2,7 @@
 
 Bienvenido a **Snake Invasion**, esta no es la clásica versión del juego de la serpiente. Es un desafío de supervivencia donde la estrategia y los reflejos son la clave para ganar.
 
-Este proyecto fue desarrollado en **Python** utilizando la librería **Pygame** como parte de una resolución de prueba técnica avanzada.
+Este proyecto fue desarrollado en **Python** utilizando la librería **Pygame** como parte de una resolución de prueba técnica.
 
 ![alt text](assets/gamecover.png)
 ![alt text](assets/game.png)
@@ -15,7 +15,7 @@ A diferencia del Snake tradicional, este juego introduce mecánicas de **gestió
 
 * **Sistema de Victoria:** El juego no es infinito. Debes demostrar que puedes convivir y sobrevivir a una pantalla llena de **10 zorros** en movimiento.
 * **Enemigos Dinámicos:** Los zorros aparecen progresivamente cada 10 puntos. Cada zorro tiene su propia trayectoria y velocidad, rebotando en las paredes.
-* **Visuales Avanzados:** * Cuerpo dinámico con piezas de giro (curvas).
+* **Visuales Avanzados:** Cuerpo dinámico con piezas de giro (curvas).
     * Animación de la cabeza: abre la boca al detectar comida.
     * Efecto de "digestión": el cuerpo cambia visualmente cuando la comida pasa por él.
 * **Items Especiales:** Aparición aleatoria de la "Python Apple" que otorga +5 puntos y crecimiento extra.
